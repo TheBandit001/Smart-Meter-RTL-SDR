@@ -1,7 +1,7 @@
 import subprocess
 
 proc = subprocess.Popen(
-    ["rtlamr", "-filterid=64259716", "-format=json"],
+    ["rtlamr", "-filterid=12345678", "-format=json"],
     stdout=subprocess.PIPE,
     stderr=subprocess.DEVNULL,
     text=True

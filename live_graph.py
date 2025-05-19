@@ -13,7 +13,8 @@ values = []
 
 def read_rtlamr():
     return subprocess.Popen(
-        ["rtlamr", "-filterid=64259716", "-format=json"],
+        # METER ID, not your NB Power Bill account number. Check your Meter outside  Ex: 12345678)
+        ["rtlamr", "-filterid=12345678", "-format=json"],
         stdout=subprocess.PIPE,
         stderr=subprocess.DEVNULL,
         text=True

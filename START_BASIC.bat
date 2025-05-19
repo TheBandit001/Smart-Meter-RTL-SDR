@@ -7,7 +7,7 @@ start "RTL_TCP" cmd /c "rtl_tcp -f 912000000"
 :: Wait 5 seconds for rtl_tcp to start
 timeout /t 5 /nobreak >nul
 
-:: Start rtlamr in this window (Change 64259716  to your Meter ID, Not the Bill Meter you see on your bill)
-rtlamr -filterid=64259716
+:: Start rtlamr in this window (Change 12345678  to your Meter ID, Not the Bill Meter you see on your bill)
+rtlamr -filterid=12345678
 
 pause

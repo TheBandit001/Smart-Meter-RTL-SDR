@@ -1,5 +1,10 @@
 Version 2  2025-05-19
 
+You will need: 
+Windows Computer (Doesn't use that much CPU)
+RTL-SDR dongle to receive in the 900 Mhz Band Range
+Small Antenna (Can be inside the home or just use the one that came with the RTL, that should work)
+
 Make sure to extract or place the files in C:\nbpower
 To update, just overide existing files in the directory C:\nbpower
 
