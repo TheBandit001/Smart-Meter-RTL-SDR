@@ -1,0 +1,39 @@
+Version 2  2025-05-19
+
+Make sure to extract or place the files in C:\nbpower
+To update, just overide existing files in the directory C:\nbpower
+
+You'll need to edit the meter ID number with yours in the 2 following files (This is not the Account number on your bill, its the number on your meter outside your house):
+START_BASIC.bat
+live_graph_    .py
+
+
+Make sure you are running the latest Version of Python 3.13.3
+CMD Prompt: python --version
+
+You will need to make sure these files are installed via python. Here's how;
+Open CMD Prompt and type: pip install matplotlib
+you must also install:    pip install pandas
+
+There are 2 Files that you can choose to start.
+START_BASIC.bat  -->   This will open 2 CMD Windows and you will see the values being displayed in the command window.
+START_GRAPH.bat  -->   This will start 2 CMD windows and your graph should appear.
+
+
+Version 1 2025-05-19 
+	Creates a graph by the hour.
+	
+Version 2 2025-05-19 
+	Creates a graph by the hour.
+	Calculate average usage
+	Estimated daily total
+	Display the average and estimated daily total on the plot
+	Export graph as image
+	Export data as CSV
+	Export on-demand meter_data.csv and meter_reading.png by pressing (button/key E)
+	
+Enjoy!
+
+daniel-boudreau@hotmail.com
+http://mediatek.ca
+

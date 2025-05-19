@@ -1,0 +1,383 @@
+{Time:2025-05-07T09:36:39.921 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:40.710 SCM:{ID:32735650 Type: 7 Tamper:{Phy:00 Enc:01} Consumption:  132460 CRC:0x9123}}
+{Time:2025-05-07T09:36:41.207 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:36:41.729 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:43.554 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:44.926 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:45.125 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:46.395 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:36:46.445 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  32298910 ConsumptionIntervalCount:254 ModuleProgrammingState:0x3C TamperCounters:124116900908 AsynchronousCounters:0x00 PowerOutageFlags:000814084100 LastConsumptionCount:1684149 DifferentialConsumptionIntervals:[3 4 3 4 4 4 4 8 3 3 4 4 4 3 4 1 2 2 3 2 3 4 2 2 27 27 28 28 27 27 29 29 17 3 4 4 2 3 2 2 3 2 2 2 2 2 2] TransmitTimeOffset:4283 SerialNumberCRC:0x361C PacketCRC:0xA1E3}}
+{Time:2025-05-07T09:36:46.742 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:36:46.811 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:36:46.906 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:46.944 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:36:47.025 SCM:{ID:32298910 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 1684149 CRC:0xB65D}}
+{Time:2025-05-07T09:36:47.115 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:47.412 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:36:47.642 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:47.689 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:48.262 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:36:48.308 SCM:{ID:33455243 Type: 7 Tamper:{Phy:00 Enc:03} Consumption: 8074012 CRC:0x05A1}}
+{Time:2025-05-07T09:36:48.924 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33130728 ConsumptionIntervalCount:3 ModuleProgrammingState:0x3C TamperCounters:0001004A0102 AsynchronousCounters:0x00 PowerOutageFlags:022100000000 LastConsumptionCount:3756848 DifferentialConsumptionIntervals:[5 5 5 5 7 3 3 4 4 3 7 7 9 7 11 8 6 9 7 6 7 8 8 33 45 11 7 10 8 9 11 8 10 8 12 38 57 73 51 19 8 5 6 7 6 3 6] TransmitTimeOffset:3249 SerialNumberCRC:0x9E5F PacketCRC:0xF4F2}}
+{Time:2025-05-07T09:36:49.515 SCM:{ID:33130728 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 3756849 CRC:0x09C7}}
+{Time:2025-05-07T09:36:49.583 SCM:{ID:24467377 Type: 7 Tamper:{Phy:02 Enc:03} Consumption: 1558548 CRC:0x73DB}}
+{Time:2025-05-07T09:36:50.455 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24645370 ConsumptionIntervalCount:192 ModuleProgrammingState:0x3C TamperCounters:020100030900 AsynchronousCounters:0x00 PowerOutageFlags:004020000000 LastConsumptionCount:6379132 DifferentialConsumptionIntervals:[6 7 42 13 8 8 9 8 6 8 8 9 8 6 7 7 7 8 8 30 37 11 12 11 12 12 31 43 12 11 10 11 13 12 45 49 51 60 60 51 53 47 47 24 9 8 9] TransmitTimeOffset:3887 SerialNumberCRC:0x1178 PacketCRC:0xFC9F}}
+{Time:2025-05-07T09:36:51.022 SCM:{ID:24645370 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 6379136 CRC:0xB55A}}
+{Time:2025-05-07T09:36:51.344 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:52.944 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:53.644 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:36:53.676 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:36:53.854 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24646988 ConsumptionIntervalCount:113 ModuleProgrammingState:0x3C TamperCounters:E20504930936 AsynchronousCounters:0x00 PowerOutageFlags:8441A8504401 LastConsumptionCount:3961433 DifferentialConsumptionIntervals:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] TransmitTimeOffset:938 SerialNumberCRC:0x09EC PacketCRC:0xEA39}}
+{Time:2025-05-07T09:36:54.107 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:36:54.187 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:54.193 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:36:54.415 SCM:{ID:24646988 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 3961433 CRC:0xB3D2}}
+{Time:2025-05-07T09:36:54.897 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:55.685 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053219 ConsumptionIntervalCount:225 ModuleProgrammingState:0x3C TamperCounters:422044550880 AsynchronousCounters:0x00 PowerOutageFlags:5D45012F64A5 LastConsumptionCount:4677329 DifferentialConsumptionIntervals:[12 12 12 14 12 13 13 14 16 16 12 8 8 8 8 8 8 9 8 9 8 9 8 26 33 7 8 8 8 8 8 7 9 12 10 8 10 13 21 9 8 8 9 8 9 9 7] TransmitTimeOffset:927 SerialNumberCRC:0xDC16 PacketCRC:0xD9D2}}
+{Time:2025-05-07T09:36:55.978 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:36:56.327 SCM:{ID:26053219 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 4677329 CRC:0x96B8}}
+{Time:2025-05-07T09:36:56.451 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33455208 ConsumptionIntervalCount:164 ModuleProgrammingState:0x3C TamperCounters:4045003D4108 AsynchronousCounters:0x00 PowerOutageFlags:010C02020002 LastConsumptionCount:9482176 DifferentialConsumptionIntervals:[16 6 9 6 13 7 7 16 7 10 9 15 27 16 24 31 37 51 20 22 16 53 90 109 60 25 14 12 11 12 8 18 38 16 9 8 11 10 10 9 8 10 10 25 24 6 6] TransmitTimeOffset:985 SerialNumberCRC:0x5542 PacketCRC:0x6B21}}
+{Time:2025-05-07T09:36:57.088 SCM:{ID:33455208 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 9482176 CRC:0xE71B}}
+{Time:2025-05-07T09:36:57.387 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:36:57.531 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:57.745 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:36:58.080 SCM:{ID:32735808 Type: 7 Tamper:{Phy:00 Enc:02} Consumption: 8329921 CRC:0x96A6}}
+{Time:2025-05-07T09:36:58.110 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:36:59.447 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:36:59.524 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:01.199 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33556521 ConsumptionIntervalCount:147 ModuleProgrammingState:0x3C TamperCounters:020100410911 AsynchronousCounters:0x00 PowerOutageFlags:710128520A02 LastConsumptionCount:6349168 DifferentialConsumptionIntervals:[2 1 1 1 2 1 5 25 13 0 1 0 2 0 0 0 1 0 8 12 10 11 10 11 4 2 2 1 1 1 1 0 0 1 1 0 0 5 11 10 11 11 10 9 0 1 0] TransmitTimeOffset:998 SerialNumberCRC:0xAAB5 PacketCRC:0xBA1E}}
+{Time:2025-05-07T09:37:01.426 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:01.529 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:01.810 SCM:{ID:33556521 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 6349168 CRC:0x6440}}
+{Time:2025-05-07T09:37:02.044 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:02.309 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:02.387 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:02.528 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550958874 ConsumptionIntervalCount:57 ModuleProgrammingState:0x3C TamperCounters:8002101F8300 AsynchronousCounters:0x00 PowerOutageFlags:30080513A800 LastConsumptionCount:7510963 DifferentialConsumptionIntervals:[4 6 4 8 3 8 3 7 4 8 7 7 7 6 7 6 8 7 35 33 8 6 7 5 8 6 8 7 28 40 38 34 35 7 14 9 10 9 14 13 13 13 7 8 5 11 6] TransmitTimeOffset:1052 SerialNumberCRC:0x3810 PacketCRC:0x1548}}
+{Time:2025-05-07T09:37:03.050 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550958874 Consumption:   7510963 Tamper:0x0002 PacketCRC:0xBAA8}}
+{Time:2025-05-07T09:37:03.110 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:03.323 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:03.721 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  20712217 ConsumptionIntervalCount:2 ModuleProgrammingState:0x3C TamperCounters:020A009E2A00 AsynchronousCounters:0x00 PowerOutageFlags:000001000958 LastConsumptionCount:9961213 DifferentialConsumptionIntervals:[8 6 25 34 19 8 8 10 10 10 11 11 12 13 13 12 12 12 8 8 7 8 7 7 8 7 23 31 31 31 29 31 35 21 9 22 34 33 32 34 18 9 16 9 8 8 7] TransmitTimeOffset:1058 SerialNumberCRC:0xE2AD PacketCRC:0x602E}}
+{Time:2025-05-07T09:37:04.011 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:04.258 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:04.290 SCM:{ID:20712217 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 9961214 CRC:0x9E7C}}
+{Time:2025-05-07T09:37:04.832 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:05.050 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:05.478 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  25494679 ConsumptionIntervalCount:88 ModuleProgrammingState:0x3C TamperCounters:2AAD04BF8F00 AsynchronousCounters:0x00 PowerOutageFlags:984B54C52DB9 LastConsumptionCount:1902177 DifferentialConsumptionIntervals:[1 1 0 0 1 0 5 26 21 1 0 0 1 0 0 1 1 0 1 0 0 0 1 1 2 1 1 1 1 1 2 2 3 2 3 2 2 1 4 1 0 1 0 1 0 0 0] TransmitTimeOffset:1114 SerialNumberCRC:0xE2BB PacketCRC:0xA58E}}
+{Time:2025-05-07T09:37:05.689 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26245809 ConsumptionIntervalCount:44 ModuleProgrammingState:0x3C TamperCounters:0A0180B20908 AsynchronousCounters:0x00 PowerOutageFlags:000008000000 LastConsumptionCount:8515476 DifferentialConsumptionIntervals:[8 8 9 9 8 6 7 7 7 7 6 7 7 12 25 9 17 14 6 7 10 26 25 28 23 7 2 2 3 3 2 2 3 2 3 28 29 3 1 0 1 2 1 1 1 1 1] TransmitTimeOffset:1064 SerialNumberCRC:0x25DA PacketCRC:0x2923}}
+{Time:2025-05-07T09:37:06.040 SCM:{ID:25494679 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 1902177 CRC:0x4E7F}}
+{Time:2025-05-07T09:37:06.240 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24323762 ConsumptionIntervalCount:145 ModuleProgrammingState:0x3C TamperCounters:020100C30900 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:210215 DifferentialConsumptionIntervals:[9 10 8 10 9 6 8 7 7 8 7 7 6 7 7 8 6 9 4 7 7 7 8 8 8 3 8 8 8 9 11 8 5 7 8 8 9 11 9 4 8 8 12 32 33 33 34] TransmitTimeOffset:1082 SerialNumberCRC:0xA70A PacketCRC:0x232A}}
+{Time:2025-05-07T09:37:06.823 SCM:{ID:24323762 Type: 7 Tamper:{Phy:02 Enc:01} Consumption:  210215 CRC:0xDEFB}}
+{Time:2025-05-07T09:37:07.388 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:07.648 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:08.187 SCM:{ID:24647119 Type: 7 Tamper:{Phy:03 Enc:00} Consumption: 3632862 CRC:0xE445}}
+{Time:2025-05-07T09:37:08.393 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:08.461 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:08.698 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:09.016 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  22196871 ConsumptionIntervalCount:133 ModuleProgrammingState:0x3C TamperCounters:91C990D415A0 AsynchronousCounters:0x00 PowerOutageFlags:822F288828A4 LastConsumptionCount:1600721 DifferentialConsumptionIntervals:[8 5 13 11 4 3 6 10 10 3 5 5 4 5 3 5 7 6 4 4 5 4 10 9 12 11 7 6 3 9 14 12 11 12 12 13 12 15 18 18 13 7 4 5 5 5 2] TransmitTimeOffset:1123 SerialNumberCRC:0xA425 PacketCRC:0xA926}}
+{Time:2025-05-07T09:37:09.128 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:09.145 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:09.584 SCM:{ID:22196871 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 1600721 CRC:0x1372}}
+{Time:2025-05-07T09:37:09.941 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  20729647 ConsumptionIntervalCount:217 ModuleProgrammingState:0x3C TamperCounters:020200700A00 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:1919582 DifferentialConsumptionIntervals:[14 15 15 15 15 14 14 14 14 14 13 14 14 14 14 13 14 14 13 26 28 14 13 14 16 14 15 15 15 14 14 14 14 14 14 14 14 14 14 13 14 14 14 14 14 14 14] TransmitTimeOffset:1098 SerialNumberCRC:0x7530 PacketCRC:0x52F4}}
+{Time:2025-05-07T09:37:10.520 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:10.554 SCM:{ID:20729647 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 1919582 CRC:0xA12D}}
+{Time:2025-05-07T09:37:10.814 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  25497615 ConsumptionIntervalCount:132 ModuleProgrammingState:0x3C TamperCounters:0201085D0900 AsynchronousCounters:0x00 PowerOutageFlags:000000400000 LastConsumptionCount:8453718 DifferentialConsumptionIntervals:[2 2 2 3 5 3 2 2 2 3 3 2 16 26 6 3 2 3 3 4 5 5 4 4 7 5 5 5 4 3 6 6 8 23 61 61 18 15 16 15 15 22 32 32 60 65 66] TransmitTimeOffset:1110 SerialNumberCRC:0x2FBD PacketCRC:0x16AF}}
+{Time:2025-05-07T09:37:11.180 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:11.192 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:11.374 SCM:{ID:25497615 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 8453718 CRC:0xE751}}
+{Time:2025-05-07T09:37:11.915 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  20009575 ConsumptionIntervalCount:137 ModuleProgrammingState:0xBC TamperCounters:011E00440600 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:9617491 DifferentialConsumptionIntervals:[20 14 11 5 15 20 15 14 12 5 21 15 14 14 16 8 13 15 14 28 44 33 31 38 42 43 39 38 38 32 41 37 40 39 41 18 14 6 11 20 14 14 14 18 11 10 14] TransmitTimeOffset:4120 SerialNumberCRC:0x8B82 PacketCRC:0x3373}}
+{Time:2025-05-07T09:37:12.174 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550957489 ConsumptionIntervalCount:137 ModuleProgrammingState:0x3C TamperCounters:0208103A0880 AsynchronousCounters:0x00 PowerOutageFlags:001004002200 LastConsumptionCount:6061051 DifferentialConsumptionIntervals:[9 8 9 9 8 8 8 8 9 8 8 8 9 9 8 8 9 8 9 8 11 9 9 10 10 10 12 12 10 9 10 10 11 10 11 15 18 25 12 10 12 10 10 11 7 11 12] TransmitTimeOffset:1134 SerialNumberCRC:0xDB03 PacketCRC:0x4FF5}}
+{Time:2025-05-07T09:37:12.316 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:12.465 SCM:{ID:20009575 Type: 7 Tamper:{Phy:01 Enc:02} Consumption: 9617502 CRC:0xC3D8}}
+{Time:2025-05-07T09:37:12.525 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:12.701 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550957489 Consumption:   6061053 Tamper:0x0200 PacketCRC:0x1682}}
+{Time:2025-05-07T09:37:13.052 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:13.334 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:13.573 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550957684 ConsumptionIntervalCount:138 ModuleProgrammingState:0x3C TamperCounters:4009003A1100 AsynchronousCounters:0x00 PowerOutageFlags:824000000000 LastConsumptionCount:5745672 DifferentialConsumptionIntervals:[14 15 15 15 15 15 15 16 15 15 15 15 16 15 16 15 16 15 16 16 42 23 16 16 14 18 17 15 15 17 19 16 15 16 19 16 16 15 19 16 17 16 16 20 18 17 18] TransmitTimeOffset:1058 SerialNumberCRC:0xCB7D PacketCRC:0xAA9B}}
+{Time:2025-05-07T09:37:14.014 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:14.092 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550957684 Consumption:   5745672 Tamper:0x0001 PacketCRC:0xB518}}
+{Time:2025-05-07T09:37:14.122 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:14.497 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:14.788 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:14.930 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:15.513 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1553402071 ConsumptionIntervalCount:107 ModuleProgrammingState:0x3C TamperCounters:010100210500 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:8645382 DifferentialConsumptionIntervals:[23 24 23 31 36 23 24 23 24 23 24 22 23 22 22 23 21 22 16 5 5 17 5 5 5 6 5 5 5 5 6 5 5 5 5 6 5 5 4 17 5 4 5 4 5 4 4] TransmitTimeOffset:985 SerialNumberCRC:0x8EAC PacketCRC:0x4DFD}}
+{Time:2025-05-07T09:37:16.074 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1553402071 Consumption:   8645382 Tamper:0x0101 PacketCRC:0xA8DF}}
+{Time:2025-05-07T09:37:16.292 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300870 CRC:0xAC00}}
+{Time:2025-05-07T09:37:16.379 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:16.524 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  27688583 ConsumptionIntervalCount:6 ModuleProgrammingState:0x3C TamperCounters:020500A58980 AsynchronousCounters:0x00 PowerOutageFlags:002880004482 LastConsumptionCount:267141 DifferentialConsumptionIntervals:[21 34 22 8 9 8 13 10 8 8 7 8 8 8 7 9 9 9 9 9 9 9 9 9 16 15 10 9 9 9 23 35 11 9 8 9 9 8 8 9 8 9 8 9 8 8 8] TransmitTimeOffset:1081 SerialNumberCRC:0xC88E PacketCRC:0x5819}}
+{Time:2025-05-07T09:37:17.080 SCM:{ID:27688583 Type: 7 Tamper:{Phy:02 Enc:01} Consumption:  267141 CRC:0x20B8}}
+{Time:2025-05-07T09:37:17.123 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:17.255 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:17.910 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:18.952 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:19.430 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:19.925 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24322193 ConsumptionIntervalCount:207 ModuleProgrammingState:0x3C TamperCounters:221200030B80 AsynchronousCounters:0x00 PowerOutageFlags:000204000800 LastConsumptionCount:6354462 DifferentialConsumptionIntervals:[4 5 6 5 3 7 7 2 7 8 5 5 7 6 2 6 7 4 4 8 6 3 8 7 4 5 7 6 2 7 7 3 7 7 6 3 7 7 1 7 7 3 6 8 6 4 7] TransmitTimeOffset:4250 SerialNumberCRC:0x19AD PacketCRC:0x9E9D}}
+{Time:2025-05-07T09:37:20.487 SCM:{ID:24322193 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 6354462 CRC:0x5733}}
+{Time:2025-05-07T09:37:20.942 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:21.275 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:21.482 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:21.621 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:21.957 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:22.591 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:23.056 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  32987390 ConsumptionIntervalCount:6 ModuleProgrammingState:0x3C TamperCounters:000100780100 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:6646680 DifferentialConsumptionIntervals:[5 8 3 7 4 5 6 3 6 3 7 6 5 28 27 11 4 5 6 4 7 6 11 11 8 7 4 10 7 13 14 11 14 8 13 9 8 10 5 11 8 12 10 6 9 5 9] TransmitTimeOffset:4338 SerialNumberCRC:0xE28E PacketCRC:0xA942}}
+{Time:2025-05-07T09:37:23.611 SCM:{ID:32987390 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 6646681 CRC:0x6C09}}
+{Time:2025-05-07T09:37:23.653 SCM:{ID:21691731 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 3597152 CRC:0x3C24}}
+{Time:2025-05-07T09:37:24.563 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:24.611 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053220 ConsumptionIntervalCount:240 ModuleProgrammingState:0x3C TamperCounters:02C0049C2B00 AsynchronousCounters:0x00 PowerOutageFlags:014000138800 LastConsumptionCount:7055589 DifferentialConsumptionIntervals:[20 1 1 15 18 10 2 2 2 2 22 5 1 2 18 21 4 0 1 7 22 1 2 4 9 18 17 1 0 15 17 3 2 2 2 12 17 18 14 25 6 2 2 1 1 5 18] TransmitTimeOffset:1243 SerialNumberCRC:0xACF1 PacketCRC:0x952E}}
+{Time:2025-05-07T09:37:24.852 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:25.185 SCM:{ID:26053220 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 7055589 CRC:0xEA8F}}
+{Time:2025-05-07T09:37:25.599 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:25.832 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:26.273 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:26.343 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:27.047 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053266 ConsumptionIntervalCount:104 ModuleProgrammingState:0x3C TamperCounters:020100BD8900 AsynchronousCounters:0x00 PowerOutageFlags:800000002000 LastConsumptionCount:7991906 DifferentialConsumptionIntervals:[3 1 1 3 4 2 2 5 13 14 15 14 4 5 5 6 13 23 5 15 13 12 12 6 4 4 3 5 3 5 14 16 13 13 5 4 6 7 3 2 8 15 14 14 14 3 3] TransmitTimeOffset:1222 SerialNumberCRC:0x2328 PacketCRC:0x947E}}
+{Time:2025-05-07T09:37:27.413 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24645340 ConsumptionIntervalCount:167 ModuleProgrammingState:0x3C TamperCounters:021200170A00 AsynchronousCounters:0x00 PowerOutageFlags:040853001000 LastConsumptionCount:7871971 DifferentialConsumptionIntervals:[13 11 12 23 32 32 34 50 55 56 66 29 7 7 8 7 8 15 29 32 32 33 33 32 34 33 34 36 34 35 36 37 38 33 32 11 8 6 3 3 4 5 3 3 3 3 7] TransmitTimeOffset:4343 SerialNumberCRC:0x55DC PacketCRC:0xC707}}
+{Time:2025-05-07T09:37:27.623 SCM:{ID:26053266 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 7991906 CRC:0xD0F6}}
+{Time:2025-05-07T09:37:27.784 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:27.986 SCM:{ID:24645340 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 7872006 CRC:0xE3C5}}
+{Time:2025-05-07T09:37:28.249 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:28.358 SCM:{ID:33510233 Type: 7 Tamper:{Phy:00 Enc:00} Consumption: 4862589 CRC:0x3D3F}}
+{Time:2025-05-07T09:37:28.386 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300871 CRC:0x4EE2}}
+{Time:2025-05-07T09:37:29.589 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:29.653 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300871 CRC:0x4EE2}}
+{Time:2025-05-07T09:37:29.811 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:30.521 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550448595 ConsumptionIntervalCount:148 ModuleProgrammingState:0x3C TamperCounters:12313272491C AsynchronousCounters:0x00 PowerOutageFlags:048A1A600480 LastConsumptionCount:4219361 DifferentialConsumptionIntervals:[2 2 1 2 1 1 1 2 1 2 3 2 3 2 23 10 2 2 3 5 2 1 4 7 3 1 3 5 1 2 3 5 2 1 3 5 1 2 3 5 1 2 3 5 2 1 3] TransmitTimeOffset:1312 SerialNumberCRC:0x3584 PacketCRC:0x2599}}
+{Time:2025-05-07T09:37:30.924 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:31.055 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550448595 Consumption:   4219361 Tamper:0x0201 PacketCRC:0x8243}}
+{Time:2025-05-07T09:37:31.282 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  16982691 ConsumptionIntervalCount:76 ModuleProgrammingState:0xBC TamperCounters:81491EA2E520 AsynchronousCounters:0x00 PowerOutageFlags:802228650D74 LastConsumptionCount:1523359 DifferentialConsumptionIntervals:[1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 2 3 2] TransmitTimeOffset:4698 SerialNumberCRC:0xB1D6 PacketCRC:0xEE5E}}
+{Time:2025-05-07T09:37:31.822 SCM:{ID:16982691 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 1523359 CRC:0x030E}}
+{Time:2025-05-07T09:37:32.132 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:33.577 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:34.361 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:34.488 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1552939345 ConsumptionIntervalCount:123 ModuleProgrammingState:0x3C TamperCounters:0204A01D4810 AsynchronousCounters:0x00 PowerOutageFlags:000000801005 LastConsumptionCount:3234664 DifferentialConsumptionIntervals:[3 2 3 4 13 32 19 6 7 5 5 4 5 6 4 5 5 8 12 5 8 1 1 1 1 2 0 1 13 27 8 1 0 1 2 2 3 2 2 2 2 2 2 2 2 2 2] TransmitTimeOffset:99 SerialNumberCRC:0xB5D0 PacketCRC:0xC686}}
+{Time:2025-05-07T09:37:34.685 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:35.019 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1552939345 Consumption:   3234664 Tamper:0x0200 PacketCRC:0x8C28}}
+{Time:2025-05-07T09:37:35.243 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:35.313 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:35.454 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:35.579 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053267 ConsumptionIntervalCount:110 ModuleProgrammingState:0x3C TamperCounters:C200A0CE0A00 AsynchronousCounters:0x00 PowerOutageFlags:0B0200110C2C LastConsumptionCount:8535996 DifferentialConsumptionIntervals:[5 4 5 5 4 5 6 6 5 5 4 4 4 4 4 1 2 16 38 42 40 17 4 6 16 18 13 24 47 48 26 14 12 5 3 19 34 40 26 5 4 5 8 8 8 5 5] TransmitTimeOffset:1306 SerialNumberCRC:0x3309 PacketCRC:0x8464}}
+{Time:2025-05-07T09:37:35.792 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:36.155 SCM:{ID:26053267 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 8535996 CRC:0xFC9F}}
+{Time:2025-05-07T09:37:36.993 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550953942 Consumption:   5954540 Tamper:0x0002 PacketCRC:0x1423}}
+{Time:2025-05-07T09:37:37.124 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550448593 ConsumptionIntervalCount:52 ModuleProgrammingState:0x3C TamperCounters:004100350100 AsynchronousCounters:0x00 PowerOutageFlags:100100480000 LastConsumptionCount:6911482 DifferentialConsumptionIntervals:[2 1 1 1 10 14 7 1 1 1 2 1 1 3 13 13 3 1 2 1 2 1 2 13 14 11 1 0 1 1 0 1 10 13 8 17 24 19 1 1 0 9 13 9 2 1 1] TransmitTimeOffset:338 SerialNumberCRC:0x15C6 PacketCRC:0xFBEA}}
+{Time:2025-05-07T09:37:37.685 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550448593 Consumption:   6911482 Tamper:0x0001 PacketCRC:0x46CE}}
+{Time:2025-05-07T09:37:38.755 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  23235315 ConsumptionIntervalCount:251 ModuleProgrammingState:0x3C TamperCounters:0B2D4C5ACD00 AsynchronousCounters:0x00 PowerOutageFlags:AEC4249CC10B LastConsumptionCount:6962443 DifferentialConsumptionIntervals:[11 16 17 13 11 18 34 43 39 16 19 12 10 11 11 12 25 40 42 34 33 32 23 10 17 19 13 13 13 13 16 15 22 22 13 13 13 12 15 21 21 22 15 14 14 13 12] TransmitTimeOffset:1871 SerialNumberCRC:0xD3AF PacketCRC:0xDEBD}}
+{Time:2025-05-07T09:37:38.893 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:39.292 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33278654 ConsumptionIntervalCount:230 ModuleProgrammingState:0x3C TamperCounters:1001004B2102 AsynchronousCounters:0x00 PowerOutageFlags:000000000080 LastConsumptionCount:1232291 DifferentialConsumptionIntervals:[26 28 29 29 30 22 3 2 3 4 3 3 5 3 4 4 3 9 6 6 6 5 4 4 6 4 5 7 8 9 21 6 22 30 25 4 4 3 4 3 4 4 4 4 4 4 3] TransmitTimeOffset:1347 SerialNumberCRC:0xA1A2 PacketCRC:0x8611}}
+{Time:2025-05-07T09:37:39.552 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:39.625 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:39.854 SCM:{ID:33278654 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 1232291 CRC:0xF963}}
+{Time:2025-05-07T09:37:40.081 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:40.398 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:41.528 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:41.715 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:42.157 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:42.414 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:42.832 SCM:{ID:18003810 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   88257 CRC:0xD422}}
+{Time:2025-05-07T09:37:44.956 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:45.112 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:45.186 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:46.417 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:46.594 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  16980662 ConsumptionIntervalCount:223 ModuleProgrammingState:0xBC TamperCounters:010000A80400 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:830265 DifferentialConsumptionIntervals:[5 5 5 6 6 5 5 5 5 4 5 5 6 5 5 5 5 5 5 5 9 7 28 28 14 4 4 4 5 4 5 4 5 4 4 4 4 4 4 4 5 5 5 4 4 4 4] TransmitTimeOffset:4017 SerialNumberCRC:0x7F7E PacketCRC:0xA2E1}}
+{Time:2025-05-07T09:37:46.859 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:47.156 SCM:{ID:16980662 Type: 7 Tamper:{Phy:01 Enc:00} Consumption:  830265 CRC:0x3035}}
+{Time:2025-05-07T09:37:47.214 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:48.325 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21736413 ConsumptionIntervalCount:168 ModuleProgrammingState:0x3C TamperCounters:4D3DAC89973E AsynchronousCounters:0x00 PowerOutageFlags:FF7FCFFDFFFF LastConsumptionCount:3596164 DifferentialConsumptionIntervals:[7 12 11 11 11 8 0 1 0 1 1 1 2 1 1 0 1 0 1 0 1 0 1 2 2 1 0 1 0 0 1 0 1 0 4 12 12 11 11 11 3 1 0 1 0 1 2] TransmitTimeOffset:3960 SerialNumberCRC:0x3B83 PacketCRC:0x082B}}
+{Time:2025-05-07T09:37:48.889 SCM:{ID:21736413 Type: 7 Tamper:{Phy:01 Enc:00} Consumption: 3596164 CRC:0x55C5}}
+{Time:2025-05-07T09:37:50.877 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:51.248 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:37:51.754 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:52.779 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26771519 ConsumptionIntervalCount:72 ModuleProgrammingState:0x3C TamperCounters:130100926D20 AsynchronousCounters:0x00 PowerOutageFlags:8A0800400080 LastConsumptionCount:7922026 DifferentialConsumptionIntervals:[20 22 6 6 3 4 6 4 21 20 23 7 5 6 4 4 5 17 22 21 8 7 6 7 10 29 44 25 20 9 2 10 34 14 6 3 21 21 19 10 2 4 3 3 4 5 19] TransmitTimeOffset:1547 SerialNumberCRC:0x0037 PacketCRC:0x15EA}}
+{Time:2025-05-07T09:37:53.082 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:53.090 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:53.324 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:53.352 SCM:{ID:26771519 Type: 7 Tamper:{Phy:03 Enc:01} Consumption: 7922026 CRC:0xDCBE}}
+{Time:2025-05-07T09:37:53.524 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  17753355 ConsumptionIntervalCount:169 ModuleProgrammingState:0xBC TamperCounters:010200480600 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:7256210 DifferentialConsumptionIntervals:[1 2 2 3 5 5 7 6 5 5 5 5 5 14 29 28 6 4 4 3 4 5 6 7 13 6 5 6 5 10 6 6 5 8 28 26 28 29 30 31 15 6 6 6 7 6 6] TransmitTimeOffset:1532 SerialNumberCRC:0x48A6 PacketCRC:0x6E9A}}
+{Time:2025-05-07T09:37:53.680 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:54.476 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  27683440 ConsumptionIntervalCount:158 ModuleProgrammingState:0x3C TamperCounters:5B4120B70D72 AsynchronousCounters:0x00 PowerOutageFlags:5205C3485F3F LastConsumptionCount:1774158 DifferentialConsumptionIntervals:[29 20 2 3 3 3 4 4 4 5 4 4 11 2 4 10 7 17 9 6 7 6 7 28 35 30 24 14 4 7 4 5 5 11 17 9 14 6 25 28 27 27 30 27 12 6 4] TransmitTimeOffset:1580 SerialNumberCRC:0x98C1 PacketCRC:0x7E13}}
+{Time:2025-05-07T09:37:54.812 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:55.049 SCM:{ID:27683440 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 1774163 CRC:0xE74B}}
+{Time:2025-05-07T09:37:55.080 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:37:55.209 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:37:55.741 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:37:56.123 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:37:56.261 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300871 CRC:0x4EE2}}
+{Time:2025-05-07T09:37:57.129 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:37:58.246 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:37:59.526 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:37:59.932 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:00.183 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24467405 ConsumptionIntervalCount:4 ModuleProgrammingState:0x3C TamperCounters:4D0306BA5500 AsynchronousCounters:0x00 PowerOutageFlags:44065C002C00 LastConsumptionCount:1201067 DifferentialConsumptionIntervals:[71 72 43 26 27 28 26 27 27 28 31 28 26 29 31 32 14 2 2 2 2 7 4 2 2 2 4 4 3 3 2 2 2 2 3 1 1 2 2 3 5 3 3 1 1 2 0] TransmitTimeOffset:1548 SerialNumberCRC:0xA1BA PacketCRC:0x1946}}
+{Time:2025-05-07T09:38:00.774 SCM:{ID:24467405 Type: 7 Tamper:{Phy:01 Enc:03} Consumption: 1201088 CRC:0xE75D}}
+{Time:2025-05-07T09:38:01.093 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:01.360 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:01.655 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:02.158 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:02.160 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:02.323 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:02.423 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21547020 ConsumptionIntervalCount:98 ModuleProgrammingState:0x3C TamperCounters:030100000D00 AsynchronousCounters:0x00 PowerOutageFlags:000001001002 LastConsumptionCount:6269630 DifferentialConsumptionIntervals:[5 4 4 5 6 5 5 5 8 5 6 7 8 5 6 6 8 29 25 6 6 6 6 6 5 5 12 3 6 6 4 6 6 5 5 7 6 6 6 6 5 5 5 6 5 3 4] TransmitTimeOffset:164 SerialNumberCRC:0xE7F6 PacketCRC:0x67EC}}
+{Time:2025-05-07T09:38:02.981 SCM:{ID:21547020 Type: 7 Tamper:{Phy:03 Enc:01} Consumption: 6269630 CRC:0x31E6}}
+{Time:2025-05-07T09:38:03.140 SCM:{ID:24647105 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 1091831 CRC:0x68B7}}
+{Time:2025-05-07T09:38:03.289 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:03.327 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:04.631 SCM:{ID:21734085 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 5593351 CRC:0x0040}}
+{Time:2025-05-07T09:38:05.691 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:05.860 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:06.007 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:06.147 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:06.418 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21736426 ConsumptionIntervalCount:38 ModuleProgrammingState:0x3C TamperCounters:094200270600 AsynchronousCounters:0x00 PowerOutageFlags:004000000000 LastConsumptionCount:3578629 DifferentialConsumptionIntervals:[6 8 13 38 31 37 30 31 29 40 36 26 29 28 26 31 37 29 27 9 11 12 34 43 44 26 28 30 27 37 43 38 31 32 43 34 45 31 24 9 9 10 14 2 6 5 2] TransmitTimeOffset:24 SerialNumberCRC:0x7D37 PacketCRC:0x6F75}}
+{Time:2025-05-07T09:38:06.975 SCM:{ID:21736426 Type: 7 Tamper:{Phy:01 Enc:02} Consumption: 3578629 CRC:0x2BA0}}
+{Time:2025-05-07T09:38:07.178 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:07.444 SCM:{ID:17753371 Type: 7 Tamper:{Phy:01 Enc:00} Consumption: 5711445 CRC:0x31C9}}
+{Time:2025-05-07T09:38:08.291 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:08.740 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21733500 ConsumptionIntervalCount:149 ModuleProgrammingState:0x3C TamperCounters:0101008A0500 AsynchronousCounters:0x00 PowerOutageFlags:000080400000 LastConsumptionCount:7722180 DifferentialConsumptionIntervals:[10 10 10 10 10 10 10 9 9 10 11 12 9 9 10 9 18 34 33 33 33 34 16 11 25 34 20 10 11 11 11 10 12 11 12 11 12 10 10 11 10 10 11 11 10 10 9] TransmitTimeOffset:3308 SerialNumberCRC:0x42B2 PacketCRC:0x025B}}
+{Time:2025-05-07T09:38:09.009 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:09.155 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  27689334 ConsumptionIntervalCount:202 ModuleProgrammingState:0x3C TamperCounters:6B4250530A11 AsynchronousCounters:0x00 PowerOutageFlags:1A924885646F LastConsumptionCount:187382 DifferentialConsumptionIntervals:[3 4 4 5 5 5 4 4 5 5 4 4 3 4 4 4 4 5 5 5 5 5 5 24 10 7 8 7 8 7 13 6 7 6 7 6 7 7 8 8 6 7 5 6 6 19 18] TransmitTimeOffset:175 SerialNumberCRC:0x344F PacketCRC:0xD96F}}
+{Time:2025-05-07T09:38:09.299 SCM:{ID:21733500 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 7722180 CRC:0x2854}}
+{Time:2025-05-07T09:38:09.590 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:38:09.729 SCM:{ID:27689334 Type: 7 Tamper:{Phy:02 Enc:02} Consumption:  187382 CRC:0xF21C}}
+{Time:2025-05-07T09:38:09.824 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21104185 ConsumptionIntervalCount:185 ModuleProgrammingState:0xBC TamperCounters:050104D41540 AsynchronousCounters:0x00 PowerOutageFlags:040002102800 LastConsumptionCount:1443304 DifferentialConsumptionIntervals:[2 1 2 1 3 2 2 1 1 2 1 1 2 1 2 1 2 3 2 1 1 2 1 1 2 1 2 2 1 3 2 1 2 1 1 2 1 2 1 2 1 3 2 2 1 1 1] TransmitTimeOffset:1734 SerialNumberCRC:0x739A PacketCRC:0x8348}}
+{Time:2025-05-07T09:38:10.411 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:10.480 SCM:{ID:21104185 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 1443304 CRC:0x85FC}}
+{Time:2025-05-07T09:38:10.840 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:11.492 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  27768473 ConsumptionIntervalCount:171 ModuleProgrammingState:0x3C TamperCounters:022124650904 AsynchronousCounters:0x00 PowerOutageFlags:500840092D25 LastConsumptionCount:6901100 DifferentialConsumptionIntervals:[7 5 2 3 2 2 3 3 23 31 11 2 3 3 3 5 5 15 28 52 49 28 28 29 17 8 7 6 5 27 55 37 22 4 5 7 6 7 6 10 31 23 4 3 5 7 8] TransmitTimeOffset:1596 SerialNumberCRC:0x93BC PacketCRC:0x9EC5}}
+{Time:2025-05-07T09:38:11.609 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:11.809 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  22197306 ConsumptionIntervalCount:215 ModuleProgrammingState:0x3C TamperCounters:020200810A00 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:9831839 DifferentialConsumptionIntervals:[1 1 1 1 1 1 1 1 13 24 1 1 1 1 1 1 2 2 1 2 1 3 3 2 2 13 23 2 1 1 1 1 1 2 2 2 2 2 1 1 1 1 2 26 9 2 2] TransmitTimeOffset:1595 SerialNumberCRC:0x78F5 PacketCRC:0x2CA3}}
+{Time:2025-05-07T09:38:12.083 SCM:{ID:27768473 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 6901100 CRC:0x8976}}
+{Time:2025-05-07T09:38:12.358 SCM:{ID:22197306 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 9831839 CRC:0xB929}}
+{Time:2025-05-07T09:38:12.411 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:13.455 SCM:{ID:32863280 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 1584535 CRC:0x688D}}
+{Time:2025-05-07T09:38:14.156 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:15.146 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:15.308 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:16.428 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:16.519 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21925209 ConsumptionIntervalCount:197 ModuleProgrammingState:0x3C TamperCounters:0202007C0A00 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:2389602 DifferentialConsumptionIntervals:[10 9 9 12 15 15 16 15 12 13 13 12 13 14 20 30 11 11 11 47 48 48 48 49 49 47 48 48 51 51 48 50 50 49 50 49 11 10 10 10 11 11 13 11 11 11 12] TransmitTimeOffset:1714 SerialNumberCRC:0xAD3F PacketCRC:0x3A0D}}
+{Time:2025-05-07T09:38:16.934 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:17.080 SCM:{ID:26053208 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 2517679 CRC:0x5712}}
+{Time:2025-05-07T09:38:17.093 SCM:{ID:21925209 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 2389604 CRC:0x1261}}
+{Time:2025-05-07T09:38:17.227 SCM:{ID:32735650 Type: 7 Tamper:{Phy:00 Enc:01} Consumption:  132461 CRC:0x73C1}}
+{Time:2025-05-07T09:38:17.544 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:18.109 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:18.285 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:19.472 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:19.542 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33453906 ConsumptionIntervalCount:130 ModuleProgrammingState:0x3C TamperCounters:0021006B0100 AsynchronousCounters:0x00 PowerOutageFlags:800008018000 LastConsumptionCount:9582449 DifferentialConsumptionIntervals:[3 2 14 27 15 6 6 17 17 17 15 0 0 1 1 1 1 0 1 0 2 1 0 1 0 1 1 2 0 1 0 0 1 1 2 0 1 0 1 1 21 24 0 1 1 1 1] TransmitTimeOffset:245 SerialNumberCRC:0x1EA1 PacketCRC:0xDB2E}}
+{Time:2025-05-07T09:38:19.920 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33453924 ConsumptionIntervalCount:132 ModuleProgrammingState:0x3C TamperCounters:2001006C8120 AsynchronousCounters:0x00 PowerOutageFlags:000000009148 LastConsumptionCount:5280244 DifferentialConsumptionIntervals:[0 1 0 0 1 0 0 19 15 0 0 1 0 0 1 0 0 2 1 1 2 1 2 4 2 2 1 10 1 1 1 2 1 0 1 0 0 1 0 0 1 0 0 1 0 0 1] TransmitTimeOffset:319 SerialNumberCRC:0x4834 PacketCRC:0x4472}}
+{Time:2025-05-07T09:38:20.079 SCM:{ID:33453906 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 9582449 CRC:0x033C}}
+{Time:2025-05-07T09:38:20.320 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:20.465 SCM:{ID:33453924 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 5280244 CRC:0x8722}}
+{Time:2025-05-07T09:38:20.551 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:20.796 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:21.279 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:21.748 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21543804 ConsumptionIntervalCount:60 ModuleProgrammingState:0x3C TamperCounters:220A0C650B88 AsynchronousCounters:0x00 PowerOutageFlags:A00200080800 LastConsumptionCount:118999 DifferentialConsumptionIntervals:[3 5 38 42 22 4 3 4 3 3 6 3 6 3 5 4 5 4 4 6 3 6 23 40 43 7 5 5 21 29 30 30 30 38 39 34 36 35 34 36 33 29 31 63 68 36 33] TransmitTimeOffset:133 SerialNumberCRC:0xC46B PacketCRC:0x90C9}}
+{Time:2025-05-07T09:38:22.313 SCM:{ID:21543804 Type: 7 Tamper:{Phy:02 Enc:02} Consumption:  118999 CRC:0x88E0}}
+{Time:2025-05-07T09:38:22.374 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:22.488 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300872 CRC:0x48D0}}
+{Time:2025-05-07T09:38:22.724 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26244492 ConsumptionIntervalCount:63 ModuleProgrammingState:0x3C TamperCounters:020200E00A00 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:2884978 DifferentialConsumptionIntervals:[4 3 4 3 4 5 5 4 5 3 3 2 3 3 3 2 4 6 28 28 27 28 12 3 4 3 4 3 6 17 11 5 9 8 8 9 2 3 3 2 3 2 3 3 4 3 3] TransmitTimeOffset:335 SerialNumberCRC:0xD21A PacketCRC:0x2AC0}}
+{Time:2025-05-07T09:38:23.053 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  23063088 ConsumptionIntervalCount:33 ModuleProgrammingState:0x3C TamperCounters:020100B10900 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:734747 DifferentialConsumptionIntervals:[3 2 2 2 1 3 2 2 2 1 1 1 2 0 1 1 1 1 1 1 0 1 2 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 1 2 0 1 1 1 1 1 1] TransmitTimeOffset:202 SerialNumberCRC:0xB65E PacketCRC:0xFF7A}}
+{Time:2025-05-07T09:38:23.223 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:23.259 SCM:{ID:26244492 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 2884978 CRC:0xB64C}}
+{Time:2025-05-07T09:38:23.606 SCM:{ID:23063088 Type: 7 Tamper:{Phy:02 Enc:01} Consumption:  734747 CRC:0xC56F}}
+{Time:2025-05-07T09:38:23.929 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:24.264 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:38:24.416 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:24.740 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:25.710 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:25.762 SCM:{ID:26053215 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 7483075 CRC:0x2870}}
+{Time:2025-05-07T09:38:25.882 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:26.736 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:27.382 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:28.125 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:28.429 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:29.224 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:29.295 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:29.507 SCM:{ID:32735636 Type: 7 Tamper:{Phy:00 Enc:01} Consumption:  324227 CRC:0x6C78}}
+{Time:2025-05-07T09:38:29.774 SCM:{ID:33455165 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 8171509 CRC:0xB81A}}
+{Time:2025-05-07T09:38:29.855 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:30.110 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:30.295 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:31.414 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33130728 ConsumptionIntervalCount:3 ModuleProgrammingState:0x3C TamperCounters:0001004A0100 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:3756848 DifferentialConsumptionIntervals:[5 5 5 5 7 3 3 4 4 3 7 7 9 7 11 8 6 9 7 6 7 8 8 33 45 11 7 10 8 9 11 8 10 8 12 38 57 73 51 19 8 5 6 7 6 3 6] TransmitTimeOffset:4212 SerialNumberCRC:0x9E5F PacketCRC:0x6D60}}
+{Time:2025-05-07T09:38:31.957 SCM:{ID:33130728 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 3756849 CRC:0x09C7}}
+{Time:2025-05-07T09:38:32.353 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:38:32.407 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:32.484 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:33.361 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:34.046 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:34.389 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:34.992 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:35.423 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24645370 ConsumptionIntervalCount:193 ModuleProgrammingState:0x3C TamperCounters:0B4130030910 AsynchronousCounters:0x00 PowerOutageFlags:114060280000 LastConsumptionCount:6379139 DifferentialConsumptionIntervals:[7 6 7 42 13 8 8 9 8 6 8 8 9 8 6 7 7 7 8 8 30 37 11 12 11 12 12 31 43 12 11 10 11 13 12 45 49 51 60 60 51 53 47 47 24 9 8] TransmitTimeOffset:74 SerialNumberCRC:0x1178 PacketCRC:0x5CBB}}
+{Time:2025-05-07T09:38:35.990 SCM:{ID:24645370 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 6379139 CRC:0xFD1F}}
+{Time:2025-05-07T09:38:36.148 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:36.509 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33453898 ConsumptionIntervalCount:179 ModuleProgrammingState:0x3C TamperCounters:010200470600 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:562957 DifferentialConsumptionIntervals:[12 2 3 2 3 14 4 3 3 2 3 3 12 4 3 3 3 2 3 3 2 3 3 2 3 2 3 3 2 25 27 14 2 3 3 2 3 3 2 3 3 2 3 3 2 3 3] TransmitTimeOffset:1921 SerialNumberCRC:0x8D98 PacketCRC:0xEA88}}
+{Time:2025-05-07T09:38:36.659 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  24467377 ConsumptionIntervalCount:247 ModuleProgrammingState:0x3C TamperCounters:022390B30B00 AsynchronousCounters:0x00 PowerOutageFlags:000020200008 LastConsumptionCount:1558548 DifferentialConsumptionIntervals:[3 3 3 3 3 3 3 4 4 3 4 3 3 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 3 3 4 10 10 10 10 10 10 9 10 10 4 3 3 3 3 3] TransmitTimeOffset:1988 SerialNumberCRC:0x1EA1 PacketCRC:0x5F45}}
+{Time:2025-05-07T09:38:37.032 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:37.055 SCM:{ID:33453898 Type: 7 Tamper:{Phy:01 Enc:02} Consumption:  562957 CRC:0xA994}}
+{Time:2025-05-07T09:38:37.224 SCM:{ID:24467377 Type: 7 Tamper:{Phy:02 Enc:03} Consumption: 1558548 CRC:0x73DB}}
+{Time:2025-05-07T09:38:37.597 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:37.930 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053219 ConsumptionIntervalCount:225 ModuleProgrammingState:0x3C TamperCounters:034484742B17 AsynchronousCounters:0x00 PowerOutageFlags:141841480010 LastConsumptionCount:4677329 DifferentialConsumptionIntervals:[12 12 12 14 12 13 13 14 16 16 12 8 8 8 8 8 8 9 8 9 8 9 8 26 33 7 8 8 8 8 8 7 9 12 10 8 10 13 21 9 8 8 9 8 9 9 7] TransmitTimeOffset:1891 SerialNumberCRC:0xDC16 PacketCRC:0x8510}}
+{Time:2025-05-07T09:38:38.385 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:38.493 SCM:{ID:26053219 Type: 7 Tamper:{Phy:02 Enc:00} Consumption: 4677332 CRC:0x4E77}}
+{Time:2025-05-07T09:38:38.509 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:38.525 SCM:{ID:24646988 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 3961433 CRC:0xB3D2}}
+{Time:2025-05-07T09:38:38.757 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:38.809 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:39.514 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:39.776 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:39.915 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:40.558 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33556521 ConsumptionIntervalCount:147 ModuleProgrammingState:0x3C TamperCounters:2221004909B2 AsynchronousCounters:0x00 PowerOutageFlags:085204102D50 LastConsumptionCount:6349168 DifferentialConsumptionIntervals:[2 1 1 1 2 1 5 25 13 0 1 0 2 0 0 0 1 0 8 12 10 11 10 11 4 2 2 1 1 1 1 0 0 1 1 0 0 5 11 10 11 11 10 9 0 1 0] TransmitTimeOffset:1938 SerialNumberCRC:0xAAB5 PacketCRC:0x7427}}
+{Time:2025-05-07T09:38:41.104 SCM:{ID:33556521 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 6349168 CRC:0x6440}}
+{Time:2025-05-07T09:38:41.955 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:42.112 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33455208 ConsumptionIntervalCount:164 ModuleProgrammingState:0x3C TamperCounters:0001003D0100 AsynchronousCounters:0x00 PowerOutageFlags:000000000100 LastConsumptionCount:9482176 DifferentialConsumptionIntervals:[16 6 9 6 13 7 7 16 7 10 9 15 27 16 24 31 37 51 20 22 16 53 90 109 60 25 14 12 11 12 8 18 38 16 9 8 11 10 10 9 8 10 10 25 24 6 6] TransmitTimeOffset:1981 SerialNumberCRC:0x5542 PacketCRC:0xE67B}}
+{Time:2025-05-07T09:38:42.653 SCM:{ID:33455208 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 9482176 CRC:0xE71B}}
+{Time:2025-05-07T09:38:43.038 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:43.128 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:43.698 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  33278654 ConsumptionIntervalCount:230 ModuleProgrammingState:0x3C TamperCounters:0001004B0100 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:1232291 DifferentialConsumptionIntervals:[26 28 29 29 30 22 3 2 3 4 3 3 5 3 4 4 3 9 6 6 6 5 4 4 6 4 5 7 8 9 21 6 22 30 25 4 4 3 4 3 4 4 4 4 4 4 3] TransmitTimeOffset:2326 SerialNumberCRC:0xA1A2 PacketCRC:0x7C1D}}
+{Time:2025-05-07T09:38:44.080 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:44.259 SCM:{ID:33278654 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 1232291 CRC:0xF963}}
+{Time:2025-05-07T09:38:45.121 SCM:{ID:18003810 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   88257 CRC:0xD422}}
+{Time:2025-05-07T09:38:45.359 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:45.513 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:46.289 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:47.440 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  20712131 ConsumptionIntervalCount:73 ModuleProgrammingState:0x3C TamperCounters:290100530580 AsynchronousCounters:0x00 PowerOutageFlags:200460000000 LastConsumptionCount:9256038 DifferentialConsumptionIntervals:[2 2 5 8 8 6 3 3 4 7 6 6 4 3 4 7 7 7 23 28 28 32 31 23 4 3 3 6 6 7 3 2 3 7 9 8 7 3 2 4 7 7 7 2 2 3 6] TransmitTimeOffset:12 SerialNumberCRC:0xBBAB PacketCRC:0xACEF}}
+{Time:2025-05-07T09:38:48.022 SCM:{ID:20712131 Type: 7 Tamper:{Phy:01 Enc:01} Consumption: 9256038 CRC:0x8E7F}}
+{Time:2025-05-07T09:38:48.059 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:48.792 SCM:{ID:57631045 Type: 5 Tamper:{Phy:00 Enc:01} Consumption: 7300873 CRC:0xAA32}}
+{Time:2025-05-07T09:38:50.125 SCM:{ID:64451962 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   30924 CRC:0xA201}}
+{Time:2025-05-07T09:38:50.243 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:38:50.310 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:38:50.452 SCM:{ID:64259715 Type: 4 Tamper:{Phy:00 Enc:02} Consumption:   15153 CRC:0x37D6}}
+{Time:2025-05-07T09:38:50.978 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  21736413 ConsumptionIntervalCount:169 ModuleProgrammingState:0x3C TamperCounters:010000A31449 AsynchronousCounters:0x00 PowerOutageFlags:104144920861 LastConsumptionCount:3596165 DifferentialConsumptionIntervals:[1 7 12 11 11 11 8 0 1 0 1 1 1 2 1 1 0 1 0 1 0 1 0 1 2 2 1 0 1 0 0 1 0 1 0 4 12 12 11 11 11 3 1 0 1 0 1] TransmitTimeOffset:123 SerialNumberCRC:0x3B83 PacketCRC:0xAF6B}}
+{Time:2025-05-07T09:38:51.144 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:51.421 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:51.547 SCM:{ID:21736413 Type: 7 Tamper:{Phy:01 Enc:00} Consumption: 3596165 CRC:0xB727}}
+{Time:2025-05-07T09:38:51.718 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:53.518 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:53.589 SCM:{ID:36428321 Type: 4 Tamper:{Phy:00 Enc:03} Consumption:   15034 CRC:0x0C9A}}
+{Time:2025-05-07T09:38:53.624 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:38:53.818 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  16980662 ConsumptionIntervalCount:224 ModuleProgrammingState:0xBC TamperCounters:010000A80400 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:830269 DifferentialConsumptionIntervals:[4 5 5 5 6 6 5 5 5 5 4 5 5 6 5 5 5 5 5 5 5 9 7 28 28 14 4 4 4 5 4 5 4 5 4 4 4 4 4 4 4 5 5 5 4 4 4] TransmitTimeOffset:221 SerialNumberCRC:0x7F7E PacketCRC:0x6825}}
+{Time:2025-05-07T09:38:54.377 SCM:{ID:16980662 Type: 7 Tamper:{Phy:01 Enc:00} Consumption:  830269 CRC:0x0A18}}
+{Time:2025-05-07T09:38:54.896 SCM:{ID:33455188 Type: 7 Tamper:{Phy:00 Enc:01} Consumption: 7088409 CRC:0xA2A3}}
+{Time:2025-05-07T09:38:55.479 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550952633 ConsumptionIntervalCount:166 ModuleProgrammingState:0x3C TamperCounters:0002004B2200 AsynchronousCounters:0x00 PowerOutageFlags:020201000000 LastConsumptionCount:4398050 DifferentialConsumptionIntervals:[2 2 2 1 3 2 2 1 2 1 1 2 3 1 1 1 2 2 2 2 1 1 3 5 27 19 1 2 2 3 3 3 4 3 4 4 4 3 2 3 8 30 36 7 3 3 3] TransmitTimeOffset:957 SerialNumberCRC:0x0C2B PacketCRC:0xF0DB}}
+{Time:2025-05-07T09:38:55.817 SCM:{ID:64259716 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   61465 CRC:0x0A83}}
+{Time:2025-05-07T09:38:56.015 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550952633 Consumption:   4398050 Tamper:0x0002 PacketCRC:0x61ED}}
+{Time:2025-05-07T09:38:56.124 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  32863021 ConsumptionIntervalCount:135 ModuleProgrammingState:0x3C TamperCounters:D203807D8B06 AsynchronousCounters:0x00 PowerOutageFlags:0A220B002214 LastConsumptionCount:6648265 DifferentialConsumptionIntervals:[2 2 2 2 1 2 2 2 3 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 2 2 2 1 2 2] TransmitTimeOffset:988 SerialNumberCRC:0xADEC PacketCRC:0xD5C5}}
+{Time:2025-05-07T09:38:56.262 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:56.547 SCM:{ID:64259762 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   61653 CRC:0x737A}}
+{Time:2025-05-07T09:38:56.707 SCM:{ID:32863021 Type: 7 Tamper:{Phy:02 Enc:03} Consumption: 6648265 CRC:0x7ABF}}
+{Time:2025-05-07T09:38:56.955 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550452628 ConsumptionIntervalCount:95 ModuleProgrammingState:0x3C TamperCounters:000000400000 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:4330787 DifferentialConsumptionIntervals:[8 8 8 9 9 9 9 9 9 9 9 9 16 35 8 9 9 9 8 8 9 9 9 9 9 9 8 9 12 8 8 8 9 9 10 8 8 8 9 9 9 9 9 10 10 9 9] TransmitTimeOffset:2428 SerialNumberCRC:0x4736 PacketCRC:0x084D}}
+{Time:2025-05-07T09:38:57.493 SCM+:{ProtocolID:0x1E EndpointType:0x07 EndpointID:1550452628 Consumption:   4330788 Tamper:0x0000 PacketCRC:0x5161}}
+{Time:2025-05-07T09:38:58.079 SCM:{ID:26229763 Type: 7 Tamper:{Phy:02 Enc:03} Consumption: 3935689 CRC:0xB5CB}}
+{Time:2025-05-07T09:38:58.830 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:38:59.384 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26771519 ConsumptionIntervalCount:72 ModuleProgrammingState:0x3C TamperCounters:0B2182B20D85 AsynchronousCounters:0x00 PowerOutageFlags:101108210940 LastConsumptionCount:7922026 DifferentialConsumptionIntervals:[20 22 6 6 3 4 6 4 21 20 23 7 5 6 4 4 5 17 22 21 8 7 6 7 10 29 44 25 20 9 2 10 34 14 6 3 21 21 19 10 2 4 3 3 4 5 19] TransmitTimeOffset:2542 SerialNumberCRC:0x0037 PacketCRC:0x8AC5}}
+{Time:2025-05-07T09:39:00.042 SCM:{ID:26771519 Type: 7 Tamper:{Phy:03 Enc:01} Consumption: 7922035 CRC:0xA2B2}}
+{Time:2025-05-07T09:39:00.084 SCM:{ID:62434920 Type: 4 Tamper:{Phy:00 Enc:01} Consumption:   74972 CRC:0x87EA}}
+{Time:2025-05-07T09:39:00.565 SCM:{ID:64184923 Type: 4 Tamper:{Phy:00 Enc:00} Consumption:   43410 CRC:0x9FEA}}
+{Time:2025-05-07T09:39:00.593 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber: 1550453859 ConsumptionIntervalCount:64 ModuleProgrammingState:0x3C TamperCounters:0811003F4100 AsynchronousCounters:0x00 PowerOutageFlags:008200000008 LastConsumptionCount:4909632 DifferentialConsumptionIntervals:[5 4 5 6 6 6 26 45 45 44 43 46 46 46 46 46 41 46 48 46 50 49 40 41 18 40 45 42 35 13 5 7 6 6 6 6 8 7 6 7 7 8 7 6 7 10 7] TransmitTimeOffset:1228 SerialNumberCRC:0x0434 PacketCRC:0xBB7D}}
+{Time:2025-05-07T09:39:00.784 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  23177131 ConsumptionIntervalCount:97 ModuleProgrammingState:0x3C TamperCounters:222AB0190B81 AsynchronousCounters:0x00 PowerOutageFlags:484470F9C040 LastConsumptionCount:5418222 DifferentialConsumptionIntervals:[10 11 16 37 38 31 8 8 7 8 8 7 8 8 8 11 10 11 11 11 12 12 11 34 35 13 19 10 8 8 9 8 11 11 11 32 38 25 12 11 11 9 10 18 7 7 7] TransmitTimeOffset:2543 SerialNumberCRC:0x21B8 PacketCRC:0xEE7A}}
+{Time:2025-05-07T09:39:00.989 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
+{Time:2025-05-07T09:39:01.084 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  26053211 ConsumptionIntervalCount:238 ModuleProgrammingState:0x3C TamperCounters:020500C00900 AsynchronousCounters:0x00 PowerOutageFlags:000000000000 LastConsumptionCount:500447 DifferentialConsumptionIntervals:[2 3 3 2 3 3 3 2 3 3 2 3 3 3 2 3 3 5 17 19 3 2 2 1 4 5 4 2 13 16 14 2 2 1 2 2 1 2 7 16 14 2 2 1 2 2 2] TransmitTimeOffset:2535 SerialNumberCRC:0x6B4D PacketCRC:0x370C}}
+{Time:2025-05-07T09:39:01.382 SCM:{ID:23177131 Type: 7 Tamper:{Phy:02 Enc:02} Consumption: 5418222 CRC:0xE98F}}
+{Time:2025-05-07T09:39:01.408 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  16909040 ConsumptionIntervalCount:163 ModuleProgrammingState:0xBC TamperCounters:5A0100A38990 AsynchronousCounters:0x00 PowerOutageFlags:023144040E04 LastConsumptionCount:13391 DifferentialConsumptionIntervals:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] TransmitTimeOffset:2559 SerialNumberCRC:0xEA96 PacketCRC:0xF7C4}}
+{Time:2025-05-07T09:39:01.685 SCM:{ID:26053211 Type: 7 Tamper:{Phy:02 Enc:01} Consumption:  500448 CRC:0x46DC}}
+{Time:2025-05-07T09:39:01.774 IDM:{Preamble:0x555516A3 PacketTypeID:0x1C PacketLength:0x5C HammingCode:0xC6 ApplicationVersion:0x04 ERTType:0x07 ERTSerialNumber:  27507818 ConsumptionIntervalCount:11 ModuleProgrammingState:0x3C TamperCounters:410300AB8300 AsynchronousCounters:0x00 PowerOutageFlags:001100802240 LastConsumptionCount:3197100 DifferentialConsumptionIntervals:[32 29 32 24 7 3 7 7 28 30 28 29 28 31 29 23 4 5 2 6 3 5 4 7 20 9 7 3 25 39 13 3 1 2 1 2 1 2 1 2 2 4 4 4 3 4 4] TransmitTimeOffset:2511 SerialNumberCRC:0x7FCB PacketCRC:0xFB81}}
+{Time:2025-05-07T09:39:01.978 SCM:{ID:16909040 Type: 7 Tamper:{Phy:02 Enc:01} Consumption:   13391 CRC:0xF24A}}
+{Time:2025-05-07T09:39:02.248 SCM:{ID:27683440 Type: 7 Tamper:{Phy:02 Enc:01} Consumption: 1774172 CRC:0xE179}}
+{Time:2025-05-07T09:39:02.353 SCM:{ID:27507818 Type: 7 Tamper:{Phy:01 Enc:03} Consumption: 3197108 CRC:0x2300}}
+{Time:2025-05-07T09:39:02.791 SCM:{ID:36658559 Type: 4 Tamper:{Phy:01 Enc:02} Consumption:   23120 CRC:0x9F44}}
