@@ -1,0 +1,24 @@
+You will need: 
+Windows Computer (Doesn't use that much CPU)
+RTL-SDR dongle to receive in the 900 Mhz Band Range
+Small Antenna (Can be inside the home or just use the one that came with the RTL, that should work)
+
+Make sure to extract or place the files in C:\nbpower
+To update, just overide existing files in the directory C:\nbpower
+
+You'll need to edit the meter ID number with yours in the 2 following files (This is not the Account number on your bill, its the number on your meter outside your house):
+START_BASIC.bat
+live_graph_    .py
+
+Make sure you are running the latest Version of Python 3.13.3
+CMD Prompt: python --version
+
+You will need to make sure these files are installed via python. Here's how;
+Open CMD Prompt and type: pip install matplotlib
+you must also install:    pip install pandas
+
+There are 2 Files that you can choose to start.
+START_BASIC.bat  -->   This will open 2 CMD Windows and you will see the values being displayed in the command window.
+START_GRAPH.bat  -->   This will start 2 CMD windows and your graph should appear. (Defauklt)
+
+Enjoy!
